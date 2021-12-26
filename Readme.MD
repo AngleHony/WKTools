@@ -2,7 +2,7 @@
 
 
 
-![PIC](.\Process_en.bmp)
+![image](https://github.com/AngleHony/WKTools/blob/main/Process_en.bmp)
 
 ËµÃ÷£º
 
