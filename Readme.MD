@@ -32,6 +32,7 @@
 	内核驱动模块的内存拷贝
 	卸载驱动内核模块
 	修改驱动驱动方式
+	查看IRP信息
 	......
 3 钩子
 	SSDT 查看与恢复
@@ -67,6 +68,12 @@
 
 
 更新日志：
+1.0.0.3版本（2021-12-31）新年快乐
+		1.修复若干bug
+		2.新增进程命令行参数显示
+		3 新增枚举驱动IRP信息
+		4 修改钩子界面布局
+
 1.0.0.2版本（2021-12-26）
 		1.修复若干bug
 		2.新增Win11 22000 系统适配
@@ -111,6 +118,7 @@ EN:
 	Unload kernel modules.
 	Dump kernel image memory.
 	Display and delete system driver service informations.
+	View Driver IRP Info
 
 *Hook Detector
 	Detect and restore SSDT,Shadow SSDT,sysenter and int2e hooks.
@@ -151,6 +159,12 @@ EN:
 	View WfpCallout
 
 Change log：
+V1.0.0.3（2021-12-31）Happy New Year
+		1.fix some bug
+		2.Add show Process parameters
+		3 Add EnumDriver IRP Info
+		4 Chnage Hook Dialog View
+
 V1.0.0.2（2021-12-26）
 		1.fix some bug
 		2.Add Win11 22000 System support
