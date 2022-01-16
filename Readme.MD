@@ -172,6 +172,15 @@ Shutdown			 查看和删除；
 
 更新日志：
 
+1.0.0.4版本（2022-01-16）		
+
+1.修复若干bug
+		
+
+2.新增Wfp Filter 操作	
+
+
+
 1.0.0.3版本（2021-12-31）新年快乐
 		
 
@@ -384,6 +393,14 @@ iew and edit hosts file.
 View WfpCallout
 
 Change log：
+
+V 1.0.0.4（2022-01-16）		
+
+1.fix some bug
+
+2.Add Enum && Operate WFP Filter
+
+
 
 V1.0.0.3（2021-12-31）Happy New Year
 		
