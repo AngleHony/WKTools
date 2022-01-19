@@ -172,12 +172,23 @@ Shutdown			 查看和删除；
 
 更新日志：
 
-1.0.0.4版本（2022-01-16）		
+1.0.0.5版本（2022-01-19）	
+
+
 
 1.修复若干bug
 		
 
+2.新增反编译器前进后退操作
+
+3.区分32&&64 SPI信息
+
+1.0.0.4版本（2022-01-16）		
+
+1.修复若干bug
+
 2.新增Wfp Filter 操作	
+
 
 
 
@@ -393,6 +404,20 @@ iew and edit hosts file.
 View WfpCallout
 
 Change log：
+
+
+
+V1.0.0.5（2022-01-19）	
+
+
+
+1.fix some bug		
+
+2.Add Decompilation FORWORD&&Back
+
+3.Complete SPI info Show
+
+
 
 V 1.0.0.4（2022-01-16）		
 
