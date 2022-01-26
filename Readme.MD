@@ -172,6 +172,17 @@ Shutdown			 查看和删除；
 
 更新日志：
 
+1.0.0.6版本（2022-01-26）	
+
+
+
+1.修复若干bug
+		
+
+2.完善过滤驱动枚举逻辑
+
+3 增加IRP枚举过滤
+
 1.0.0.5版本（2022-01-19）	
 
 
@@ -404,6 +415,16 @@ iew and edit hosts file.
 View WfpCallout
 
 Change log：
+
+V1.0.0.6（2022-02-26）	
+
+
+
+1.fix some bug		
+
+2.Complete Standard Filter enum
+
+3.Add Enum IRP Filter
 
 
 
