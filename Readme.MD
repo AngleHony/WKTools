@@ -172,6 +172,21 @@ Shutdown			 查看和删除；
 
 更新日志：
 
+1.0.0.7版本（2022-03-05）	
+
+
+
+1.修复若干bug
+		
+
+2.完善开机启动项枚举
+
+3 增加RPC HOOK枚举
+
+4 增加Session ID 显示
+
+
+
 1.0.0.6版本（2022-01-26）	
 
 
@@ -416,7 +431,17 @@ View WfpCallout
 
 Change log：
 
-V1.0.0.6（2022-02-26）	
+V1.0.0.7（2022-03-05）	
+
+1.fix some bug		
+
+2.Complete Autorun Manager enum
+
+3.Add Check RPC HOOK
+
+4 Add Show Session ID
+
+V1.0.0.6（2022-01-26）	
 
 
 
