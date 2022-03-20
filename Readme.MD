@@ -172,6 +172,19 @@ Shutdown			 查看和删除；
 
 更新日志：
 
+1.0.0.8版本（2022-03-20）	
+
+
+
+1.修复若干bug
+		
+
+2 增加服务进程ID显示
+
+4 增加服务跳转到进程
+
+
+
 1.0.0.7版本（2022-03-05）	
 
 
@@ -430,6 +443,18 @@ iew and edit hosts file.
 View WfpCallout
 
 Change log：
+
+V1.0.0.8（2022-03-20）	
+
+
+
+1.fix some bug			
+
+2 Add Show Service PID
+
+4 Add Service Jmp to Process
+
+
 
 V1.0.0.7（2022-03-05）	
 
