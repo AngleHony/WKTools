@@ -9,6 +9,21 @@ System Support Win7X64 (7601)		Win10X64 (19041,19042,19043,19044)  Win11(22000)
 
 EN:
 
+
+
+Change log：
+V1.0.0.10（2022-05-21）	
+
+
+
+1.fix some bug			
+
+2 Add Enum IoRegisterLastChanceShutdownNotification, SeFileSystemCallBack.
+
+3 Enhance Object Hook Enum(CallBack Object).
+
+
+
 Change log：
 V1.0.0.9（2022-04-16）	
 
@@ -290,8 +305,19 @@ View WfpCallout
 
 
 
-
 更新日志：
+
+1.0.0.10（2022-05-21）	
+
+
+
+1.修复若干bug		
+
+2 增加枚举注册表回调, 注销回调枚举。
+
+3 增强Object Hook 枚举(CallBack Object)
+
+
 
 1.0.0.9（2022-04-16）	
 
