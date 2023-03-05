@@ -1,22 +1,22 @@
 ![image](https://github.com/AngleHony/WKTools/blob/main/Process_en.bmp)
 
-
-
-
-
 ### About open source
 
  **I don't plan to share the source code. If you can't accept it, please close the page**
-
-
-
-
 
 System Support Win7X64 (7601)        Win10X64 (19041,19042,19043,19044,19045)  Win11(22000,22621)
 
 EN:
 
 Change log：
+
+V1.0.0.12（2023-03-05）
+
+1.fix some bug
+
+2.Add Scan All Process hook
+
+3  Enhance Inline hook Check
 
 V1.0.0.11（2022-10-31）
 
@@ -235,6 +235,16 @@ View WfpCallout
 本工具目前实现功能如下（包括但不限于）：
 
 更新日志：
+
+1.0.0.12（2022-03-05）
+
+1.修复若干bug
+
+2.增加枚举所有进程hook 功能
+
+3 增强 Inline hook 检测
+
+
 
 1.0.0.11（2022-10-31）
 
