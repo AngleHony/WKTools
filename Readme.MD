@@ -10,6 +10,16 @@ EN:
 
 Change log：
 
+V1.0.0.13（2023-5-11）
+
+1.fix some bug
+
+2.Add Show IRP_UNLOAD address
+
+3 Add Show Protected Process Light(PPL)
+
+
+
 V1.0.0.12（2023-03-05）
 
 1.fix some bug
@@ -236,15 +246,23 @@ View WfpCallout
 
 更新日志：
 
-1.0.0.12（2022-03-05）
+1.0.0.13（2023-05-11）
+
+1.修复若干bug
+
+2.增加 IRP_UNLOAD 地址展示
+
+3 增强 Protected Process Light（PPL）展示
+
+
+
+1.0.0.12（2023-03-05）
 
 1.修复若干bug
 
 2.增加枚举所有进程hook 功能
 
 3 增强 Inline hook 检测
-
-
 
 1.0.0.11（2022-10-31）
 
