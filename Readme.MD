@@ -10,6 +10,13 @@ EN:
 
 Change log：
 
+V1.0.0.14（2023-7-22）
+
+1.fix some bug
+
+- Update the prompt every time you open it
+- Driver Load Fail Beacuse signature verification failed
+
 V1.0.0.13（2023-5-11）
 
 1.fix some bug
@@ -17,8 +24,6 @@ V1.0.0.13（2023-5-11）
 2.Add Show IRP_UNLOAD address
 
 3 Add Show Protected Process Light(PPL)
-
-
 
 V1.0.0.12（2023-03-05）
 
@@ -246,6 +251,14 @@ View WfpCallout
 
 更新日志：
 
+1.0.0.14（2023-07-22）
+
+1.修复若干bug
+
+驱动签名吊销
+
+循环提示更新
+
 1.0.0.13（2023-05-11）
 
 1.修复若干bug
@@ -253,8 +266,6 @@ View WfpCallout
 2.增加 IRP_UNLOAD 地址展示
 
 3 增强 Protected Process Light（PPL）展示
-
-
 
 1.0.0.12（2023-03-05）
 
