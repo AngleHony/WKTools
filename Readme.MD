@@ -14,7 +14,7 @@ V1.0.0.16（2023-8-4）
 
 1.fix some bug
 
-2 add  show and operate process windows Protect  (PROCESS--->RightClick--->View Process Windows-->RightClick)
+2 add  show and operate process windows Protect  (PROCESS--->RightClick--->View Process Windows-->RightClick) To  disable App Anti Capture
 
 V1.0.0.14（2023-7-22）
 
@@ -261,7 +261,7 @@ View WfpCallout
 
 1.修复若干bug
 
-2.新增展示和修改进程窗口保护功能(进程-->右键-->查看进程窗口-->右键)
+2.新增展示和修改进程窗口保护功能(进程-->右键-->查看进程窗口-->右键) 可以用来移除应用反截图功能
 
 1.0.0.14（2023-07-22）
 
