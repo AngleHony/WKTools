@@ -10,6 +10,12 @@ EN:
 
 Change log：
 
+V1.0.0.16（2023-8-4）
+
+1.fix some bug
+
+2 add  show and operate process windows Protect  (PROCESS--->RightClick--->View Process Windows-->RightClick)
+
 V1.0.0.14（2023-7-22）
 
 1.fix some bug
@@ -250,6 +256,12 @@ View WfpCallout
 本工具目前实现功能如下（包括但不限于）：
 
 更新日志：
+
+1.0.0.16（2023-08-04）
+
+1.修复若干bug
+
+2.新增展示和修改进程窗口保护功能(进程-->右键-->查看进程窗口-->右键)
 
 1.0.0.14（2023-07-22）
 
