@@ -4,11 +4,17 @@
 
  **I don't plan to share the source code. If you can't accept it, please close the page**
 
-System Support Win7X64 (7601)        Win10X64 (19041,19042,19043,19044,19045)  Win11(22000,22621)
+System Support Win7X64 (7601)        Win10X64 (19041,19042,19043,19044,19045)  Win11(22000,22621,22631)
 
 EN:
 
 Change log：
+
+V1.0.0.17（2024-2-5）
+
+1.fix some bug
+
+2.Add win11 22631 support
 
 V1.0.0.16（2023-8-4）
 
@@ -256,6 +262,12 @@ View WfpCallout
 本工具目前实现功能如下（包括但不限于）：
 
 更新日志：
+
+1.0.0.17（2024-02-05）
+
+1.修复若干bug
+
+2.支持win11 22631
 
 1.0.0.16（2023-08-04）
 
