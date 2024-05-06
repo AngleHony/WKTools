@@ -10,6 +10,10 @@ EN:
 
 Change log：
 
+V1.0.0.18（2024-5-7）
+
+1.Change Signature, Fix  ErrorCode 0x800b010c Certificado explicitamente revogado por seu emissor.
+
 V1.0.0.17（2024-2-5）
 
 1.fix some bug
@@ -249,9 +253,7 @@ Display current network connections,include TCP and UDP informations.
 View and delete IE plugins and context menu.
 
 Display winsock providers(LSP).
-    V
-
-iew and edit hosts file.
+View and edit hosts file.
 
 View WfpCallout
 
@@ -262,6 +264,10 @@ View WfpCallout
 本工具目前实现功能如下（包括但不限于）：
 
 更新日志：
+
+1.0.0.18（2024-5-7）
+
+1.更新证书,修复签名吊销问题 
 
 1.0.0.17（2024-02-05）
 
