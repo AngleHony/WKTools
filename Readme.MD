@@ -10,6 +10,14 @@ EN:
 
 Change log：
 
+V1.0.0.20（2025-4-19）
+
+1.Change Signature, Fix ErrorCode 0x800b010c Certificado explicitamente revogado por seuemissor.
+
+2.Fix some bug(such as Dump message hook). 
+
+3.Add win11 26100 support.
+
 V1.0.0.18（2024-5-7）
 
 1.Change Signature, Fix  ErrorCode 0x800b010c Certificado explicitamente revogado por seu emissor.
@@ -264,6 +272,14 @@ View WfpCallout
 本工具目前实现功能如下（包括但不限于）：
 
 更新日志：
+
+1.0.0.20（2025-4-19）
+
+1.更新证书,修复签名吊销问题
+
+2.修复了一些bug
+
+3.增加了对于win11 26100 版本的支持
 
 1.0.0.18（2024-5-7）
 
