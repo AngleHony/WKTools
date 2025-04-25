@@ -10,6 +10,10 @@ EN:
 
 Change log：
 
+V1.0.0.21（2025-4-25）
+
+1.Fix Load Driver Error 0xC1 caused by VMP
+
 V1.0.0.20（2025-4-19）
 
 1.Change Signature, Fix ErrorCode 0x800b010c Certificado explicitamente revogado por seuemissor.
@@ -272,6 +276,12 @@ View WfpCallout
 本工具目前实现功能如下（包括但不限于）：
 
 更新日志：
+
+1.0.0.20（2025-4-25）
+
+1.修复VMP导致驱动加载失败 Error Code 0xC1
+
+
 
 1.0.0.20（2025-4-19）
 
